@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwdecode_video_list">
+        <item>bbb_avc_640x360_768kbps_30fps.h264</item>
+        <item>bbb_hevc_640x360_1600kbps_30fps.hevc</item>
+        <item>bbb_mpeg4_352x288_512kbps_30fps.m4v</item>
+    </string-array>
+</resources>
